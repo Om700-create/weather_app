@@ -56,7 +56,7 @@ This is a simple desktop application that provides real-time weather information
     - 🌬️ Wind Speed
 
 ## Screenshots
-![Weather App Screenshot](C:/project/weather_app/Screenshot 2024-12-12 152402.png)
+![Weather App Screenshot](https://github.com/Om700-create/weather_app/blob/298a11e8c6cd675c84e635b836f753d0a77216a9/Screenshot%202024-12-12%20152402.png)
 
 ## Troubleshooting
 - If you get an error like "❗ Error fetching weather data," ensure your API key is correct and your internet connection is stable.
